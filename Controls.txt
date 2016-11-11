@@ -1,0 +1,9 @@
+Player 1:
+WASD to move
+C and V to rotate the turret
+F to shoot
+
+Player 2:
+IJKL to move
+Left and right arrow keys to rotate turret
+Up to shoot
